@@ -3,18 +3,33 @@
 **Skill shown:** Case Report Form (CRF) design and CRF completion guidelines.
 
 ## Task
-Design the CRF pages for the mock TB diagnostic study so that sites collect clean, consistent data.
+Design the paper CRF for the mock TB diagnostic study (protocol TB-RMT-MOCK-01) so that sites collect clean, consistent data that maps easily to CDISC standards.
 
-## Planned contents
-- `CRF_Demographics.pdf`: subject ID, date of birth, sex, consent date
-- `CRF_Vitals.pdf`: visit date, weight, temperature, pulse, BP
-- `CRF_TestResults.pdf`: sample date, sample type, test result, smear/culture result
-- `CRF_AdverseEvents.pdf`: AE term, start/end date, severity, seriousness, causality
-- `CRF_Completion_Guidelines.pdf`: how sites should fill each field
+## Files
+
+| File | Contents |
+| --- | --- |
+| [CRF_TB_Mock_Study_v1.0.pdf](./CRF_TB_Mock_Study_v1.0.pdf) | 8-page CRF: study overview and schedule of assessments, plus Forms 01–08 |
+| [CRF_Completion_Guidelines_v1.0.pdf](./CRF_Completion_Guidelines_v1.0.pdf) | 2-page guide for site staff: general rules, date/number formats, missing-data codes, corrections, form-specific instructions, query handling |
+
+## Forms in the CRF
+
+| Form | Name | Visits |
+| --- | --- | --- |
+| 01 | Informed Consent & Eligibility | Screening |
+| 02 | Demographics & Medical History | Screening |
+| 03 | Vital Signs | Screening, Day 7, Month 2 |
+| 04 | Specimen Collection & Test Results (rapid molecular test, smear, MGIT culture, NTM identification) | Screening, Day 7 |
+| 05 | Adverse Events Log | Any time |
+| 06 | Concomitant Medications Log | Any time |
+| 07 | End of Study | Month 2 |
+| 08 | Investigator Sign-off | Month 2 |
 
 ## Design principles followed
-- Coded answers (checkboxes, codelists) instead of free text
-- Standard date format (DD-MMM-YYYY) and units printed beside each field
-- Field names aligned with CDISC CDASH where possible
+- Coded answers (tick boxes, code lists) instead of free text wherever possible
+- One date format (DD/MMM/YYYY) and units printed beside every numeric field
+- CDISC CDASH variable names shown under each field label (e.g. RFICDTC, AETERM, VSORRES), ready for SDTM mapping in [project 05](../05-sdtm-mapping)
+- Expected ranges printed on the vital signs form; these become the edit checks in [project 02](../02-data-validation-plan)
+- Subject identifiers (site, subject number, initials) on every page
 
-*Status: in progress. All data is synthetic.*
+*All content is synthetic training material, not for clinical use.*
