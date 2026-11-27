@@ -1,6 +1,6 @@
 # Clinical Data Management Portfolio
 
-Hi, I'm **DK**, an M.Sc. Biotechnology graduate moving into **Clinical Data Management (CDM)**. I bring hands-on experience in molecular diagnostics (RT-PCR), data validation and QC compliance from my work as Scientist B (Non-Medical) under the National Health Mission, Madhya Pradesh.
+Hi, I'm **Deepansh Kushwaha (DK)**, an M.Sc. Biotechnology graduate moving into **Clinical Data Management (CDM)**. I bring hands-on experience in molecular diagnostics (RT-PCR), data validation and QC compliance from my work as Scientist B (Non-Medical) under the National Health Mission, Madhya Pradesh.
 
 This repository shows core CDM skills, applied to one **mock TB diagnostic study**.
 
