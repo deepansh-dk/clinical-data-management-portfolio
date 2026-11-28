@@ -1,0 +1,101 @@
+subjid,completed,dsstdtc,eosreas,finaldx,attstart,aeyn,cmyn
+01-001,Yes,2026-08-13,,Pulmonary TB confirmed,Yes,No,Yes
+01-002,Yes,2026-06-09,,Not TB,No,No,No
+01-003,Yes,2026-06-17,,NTM disease,No,No,No
+01-004,Yes,2026-03-09,,Pulmonary TB confirmed,Yes,Yes,Yes
+01-005,Yes,2026-07-13,,NTM disease,No,Yes,Yes
+01-006,Yes,2026-05-10,,Pulmonary TB confirmed,Yes,Yes,Yes
+01-007,Yes,2026-08-03,,NTM disease,No,No,No
+01-008,Yes,2026-08-23,,Pulmonary TB confirmed,Yes,Yes,Yes
+01-009,Yes,2026-08-10,,Not TB,No,No,No
+01-010,Yes,2026-07-23,,Not TB,No,No,Yes
+01-011,Yes,2026-05-21,,Not TB,No,Yes,Yes
+01-012,Yes,2026-08-16,,Not TB,No,No,No
+01-013,Yes,2026-05-04,,Pulmonary TB confirmed,Yes,No,Yes
+01-014,Yes,2026-07-04,,Pulmonary TB confirmed,Yes,Yes,Yes
+01-015,Yes,2026-04-15,,Not TB,No,No,Yes
+01-016,Yes,2026-05-13,,Pulmonary TB confirmed,Yes,No,Yes
+01-017,Yes,2026-03-12,,Not TB,No,Yes,Yes
+01-018,Yes,2026-04-04,,Not TB,No,No,No
+01-019,Yes,2026-07-27,,Not TB,No,Yes,No
+01-020,Yes,2026-07-04,,Not TB,No,No,No
+01-021,Yes,2026-03-28,,Not TB,No,No,Yes
+01-022,Yes,2026-04-02,,Not TB,No,No,Yes
+01-023,Yes,2026-05-26,,Pulmonary TB confirmed,Yes,No,Yes
+01-024,Yes,2026-07-06,,Not TB,No,No,No
+01-025,Yes,2026-05-13,,Not TB,No,No,No
+01-026,Yes,2026-05-04,,Not TB,No,No,Yes
+01-027,Yes,2026-07-26,,Not TB,No,No,No
+01-028,Yes,2026-07-21,,Not TB,No,No,No
+01-029,Yes,2026-08-02,,Not TB,No,No,No
+01-030,Yes,2026-07-19,,NTM disease,No,No,No
+01-031,Yes,2026-03-31,,Pulmonary TB confirmed,Yes,No,Yes
+01-032,Yes,2026-07-29,,Not TB,No,Yes,No
+01-033,Yes,2026-06-23,,Pulmonary TB confirmed,Yes,No,Yes
+01-034,Yes,2026-08-18,,Pulmonary TB confirmed,Yes,No,Yes
+01-035,Yes,2026-07-28,,Not TB,No,No,No
+01-036,Yes,2026-03-19,,Not TB,No,Yes,Yes
+01-037,Yes,2026-08-18,,Pulmonary TB confirmed,Yes,No,Yes
+01-038,Yes,2026-07-03,,Not TB,No,No,No
+01-039,Yes,2026-06-13,,Not TB,No,No,Yes
+01-040,Yes,2026-08-16,,Not TB,No,No,Yes
+01-041,Yes,2026-04-16,,Pulmonary TB confirmed,Yes,No,Yes
+01-042,Yes,2026-03-30,,Pulmonary TB confirmed,Yes,No,Yes
+01-043,Yes,2026-06-11,,Not TB,No,No,No
+01-044,Yes,2026-04-19,,Pulmonary TB confirmed,Yes,No,Yes
+01-045,Yes,2026-05-21,,Not TB,No,No,No
+01-046,Yes,2026-08-16,,Pulmonary TB confirmed,Yes,No,Yes
+01-047,Yes,2026-05-24,,Pulmonary TB confirmed,Yes,No,Yes
+01-048,Yes,2026-08-05,,Not TB,No,No,No
+01-049,Yes,2026-08-25,,Not TB,No,No,No
+01-050,Yes,2026-04-11,,Pulmonary TB confirmed,Yes,No,Yes
+01-051,Yes,2026-06-03,,Pulmonary TB confirmed,Yes,No,Yes
+01-052,Yes,2026-05-20,,Pulmonary TB confirmed,Yes,No,Yes
+01-053,Yes,2026-04-24,,Not TB,No,Yes,No
+01-054,Yes,2026-07-21,,Not TB,No,No,No
+01-055,Yes,2026-08-03,,Not TB,No,Yes,No
+01-056,Yes,2026-04-26,,Not TB,No,No,No
+01-057,Yes,2026-07-14,,Pulmonary TB confirmed,Yes,No,Yes
+01-058,Yes,2026-07-10,,Not TB,Yes,No,Yes
+01-059,Yes,2026-05-31,,Not TB,No,Yes,No
+01-060,Yes,2026-06-12,,Pulmonary TB confirmed,Yes,No,Yes
+01-061,Yes,2026-08-02,,Pulmonary TB confirmed,Yes,No,Yes
+01-062,No,2026-02-15,Lost to follow-up,Not TB,No,No,Yes
+01-063,Yes,2026-07-30,,Not TB,No,Yes,Yes
+01-064,Yes,2026-06-15,,Not TB,No,No,No
+01-065,Yes,2026-08-03,,Not TB,No,No,No
+01-066,Yes,2026-07-12,,Not TB,No,No,No
+01-067,Yes,2026-05-03,,Not TB,No,No,No
+01-068,Yes,2026-04-17,,Not TB,No,No,Yes
+01-069,Yes,2026-07-10,,Not TB,No,No,No
+01-070,Yes,2026-05-23,,Not TB,No,No,No
+01-071,Yes,2026-04-06,,Not TB,No,No,Yes
+01-072,Yes,2026-04-11,,Not TB,No,No,No
+01-073,Yes,2026-03-04,,Not TB,No,No,No
+01-074,Yes,2026-04-30,,Not TB,No,No,No
+01-075,Yes,2026-06-22,,Not TB,No,No,No
+01-076,Yes,2026-05-02,,Not TB,No,No,No
+01-077,Yes,2026-06-04,,Not TB,No,No,No
+01-078,Yes,2026-05-23,,Not TB,No,Yes,No
+01-079,Yes,2026-06-09,,Not TB,No,Yes,Yes
+01-080,Yes,2026-07-12,,Pulmonary TB confirmed,Yes,No,Yes
+01-081,Yes,2026-06-15,,Pulmonary TB confirmed,Yes,Yes,Yes
+01-082,Yes,2026-07-21,,Pulmonary TB confirmed,Yes,No,Yes
+01-083,Yes,2026-04-13,,Pulmonary TB confirmed,Yes,No,Yes
+01-084,Yes,2026-05-27,,Not TB,No,Yes,Yes
+01-085,Yes,2026-08-07,,Pulmonary TB confirmed,Yes,No,Yes
+01-086,Yes,2026-06-12,,Not TB,No,No,No
+01-087,Yes,2026-03-26,,Not TB,No,Yes,No
+01-088,Yes,2026-06-22,,Not TB,No,No,No
+01-089,Yes,2026-06-18,,Not TB,No,No,No
+01-090,Yes,2026-07-05,,Not TB,No,No,No
+01-091,Yes,2026-07-02,,Not TB,No,No,No
+01-092,Yes,2026-06-22,,Pulmonary TB confirmed,Yes,Yes,No
+01-093,Yes,2026-04-11,,Not TB,No,Yes,Yes
+01-094,Yes,2026-04-11,,Pulmonary TB confirmed,Yes,Yes,Yes
+01-095,Yes,2026-06-26,,Pulmonary TB confirmed,Yes,No,Yes
+01-096,No,2026-08-27,,Pulmonary TB confirmed,Yes,No,Yes
+01-097,Yes,2026-08-22,,Not TB,No,No,No
+01-098,Yes,2026-04-02,,Not TB,No,Yes,Yes
+01-099,No,2026-05-29,Adverse event,Not TB,No,No,Yes
+01-100,No,2026-08-05,Lost to follow-up,NTM disease,No,No,Yes
