@@ -21,16 +21,16 @@ This repository shows core CDM skills, applied to one **mock TB diagnostic study
 | --- | --- | --- | --- |
 | 01 | [Mock CRF](./01-mock-crf) | CRF design, completion guidelines | ✅ Done |
 | 02 | [Data Validation Plan](./02-data-validation-plan) | Edit checks, query wording | ✅ Done |
-| 03 | [Data cleaning in Excel](./03-data-cleaning-excel) | Discrepancy management, query log | Planned |
-| 04 | [SQL data review](./04-sql-data-review) | SQL checks on trial data | Planned |
-| 05 | [SDTM mapping](./05-sdtm-mapping) | CDISC SDTM (DM, AE domains) | Planned |
+| 03 | [Data cleaning in Excel](./03-data-cleaning-excel) | Discrepancy management, query log | ✅ Done |
+| 04 | [SQL data review](./04-sql-data-review) | SQL checks on trial data | ✅ Done |
+| 05 | [SDTM mapping](./05-sdtm-mapping) | CDISC SDTM (DM, AE domains) | ✅ Done |
 
 ## Skills and certifications
 
 - Good Clinical Practice (ICH-GCP); NIDA GCP (in progress)
 - Good Regulatory Practices for Medical Devices
 - Clinical Data Management (entry-level certificate)
-- Tools: Excel, SQL, OpenClinica (learning)
+- Tools: Excel (INDEX/MATCH, COUNTIFS, pivot tables), SQL (SQLite), CDISC CDASH/SDTM; learning OpenClinica
 
 ## Contact
 
